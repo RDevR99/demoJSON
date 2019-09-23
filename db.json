@@ -1,10 +1,10 @@
 {"lectures":[
 	{
 		"courseName":"CSE2MAD",
-		"venue":"GS2",
+		"venue":"GS",
 		"scheduledStart":"19-09-23 12:00:17",
 		"duration":1.5,
-		"isActive":true
+		"isActive":false
 	},
 	
 	{
