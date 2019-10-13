@@ -1,10 +1,9 @@
-{"data":[
-	{
+{"data":{
+	"data""[{
 		"CourseCode":"CSE2MAD",
 		"Room":"GS",
 		"Time":"2019-10-13T06:35:13+0000",
 		"Duration":1.5,
 		"isRunning":1
-	}
-]
+	}]}
 }
