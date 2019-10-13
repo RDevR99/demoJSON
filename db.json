@@ -1,44 +1,10 @@
-{"lectures":[
+{"data":[
 	{
-		"courseName":"CSE2MAD",
-		"venue":"GS",
-		"scheduledStart":"2019-10-13T06:30:13+0000",
-		"duration":1.5,
+		"CourseCode":"CSE2MAD",
+		"Room":"GS",
+		"Time":"2019-10-13T06:30:13+0000",
+		"Duration":1.5,
 		"isRunning":false
-	},
-	
-	{
-		"courseName":"CSE2DES",
-		"venue":"GS",
-		"scheduledStart":"2019-10-13T06:40:13+0000",
-		"duration":1.5,
-		"isRunning":false
-	},
-	
-	{
-		"courseName":"CSE2ICE",
-		"venue":"GS",
-		"scheduledStart":"2019-10-13T06:50:13+0000",
-		"duration":1.5,
-		"isRunning":true
-	},
-	
-	{
-		"courseName":"CSE2PRB",
-		"venue":"GS",
-		"scheduledStart":"2019-10-13T07:10:13+0000",
-		"duration":1.5,
-		"isRunning":true
-	},
-	
-	{
-		"courseName":"CSE2MAD",
-		"venue":"GS",
-		"scheduledStart":"2019-10-13T07:30:13+0000",
-		"duration":1.5,
-		"isRunning":true
 	}
-	
-
 ]
 }
